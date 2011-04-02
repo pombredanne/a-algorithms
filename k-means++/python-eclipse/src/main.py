@@ -33,7 +33,7 @@ def calculate_cluster(c,X):
     return
 
 def kmeanspp():
-    initial_centroids = initialize([1,2,3,4,5,6,7],K)
+    initial_centroids = initialize([34,12,27,4,89,60,100],K)
     print initial_centroids
 
 kmeanspp()
