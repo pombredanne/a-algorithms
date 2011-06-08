@@ -1,0 +1,4 @@
+72
+Customer=Angietttttttttttttttttttttt,product=aaaaaaaaaaaaaaaaa
+Customer=Peter,product=PlayStationsdfsdf
+Customer=Anton,product=Xboxreiyujfcfh

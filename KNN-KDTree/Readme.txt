@@ -1,0 +1,1 @@
+The following algorithm computes KNN using KD-tree. It supports double values and multiple dimensions.
