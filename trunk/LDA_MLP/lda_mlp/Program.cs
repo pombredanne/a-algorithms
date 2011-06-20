@@ -13,7 +13,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a demo application that combines Linea rDiscriminant Analysis (LDA) and Multilayer Perceptron(MLP).");
+            Console.WriteLine("This is a demo application that combines Linear Discriminant Analysis (LDA) and Multilayer Perceptron(MLP).");
             double[,] inputs = 
             {
               {  4,  1 }, 
